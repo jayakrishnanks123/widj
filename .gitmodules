@@ -1,0 +1,3 @@
+[submodule "deploy1"]
+	path = deploy1
+	url = https://github.com/jayakrishnanks123/deploy1.git
